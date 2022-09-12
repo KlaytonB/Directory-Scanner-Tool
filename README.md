@@ -8,6 +8,9 @@
     python3 directory.py http://url/ path_of_wordlist or Directory.txt
 # Example:
     python3 directory.py http://google.com/ Directory.txt
+    
+   ![dir](https://user-images.githubusercontent.com/108541991/189699396-cba97a99-1627-474f-bac1-f60f3e0a3d6d.jpg)
+
 
 # The Code:
     For this script we need two modules, requests and sys.
