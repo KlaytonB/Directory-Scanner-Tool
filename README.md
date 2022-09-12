@@ -1,4 +1,4 @@
-# Directory-Scanner-Tool
+# Directory-Scanner-Tool ☠️ ☠️ 
 
 # Description:
     Directory brute force is used to find hidden and often forgotten directories on a site to try to compromise. 
