@@ -5,7 +5,9 @@
     Some various automated tools and scripts retrieve the status of the directory which is brute-forced from custom wordlists.
 
 # Usage:
-    python3 directory.py http://url/ path_of_wordlist
+    python3 directory.py http://url/ path_of_wordlist or Directory.txt
+# Example:
+    python3 directory.py http://google.com/ Directory.txt
 
 # The Code:
     For this script we need two modules, requests and sys.
